@@ -8,6 +8,10 @@
       "question": "What is the capital of France?",
       "answer": "Paris"
     },
+   {
+      "question": "What is the capital of US?",
+      "answer": "Washington D.C."
+    },
     {
       "question": "How are you",
       "answer": "I am fine, thank you."
@@ -23,6 +27,14 @@
     {
       "question": "Thanks",
       "answer": "No prob."
+    },
+        {
+      "question": "Perfect!",
+      "answer": "I am glad you think so."
+    },
+        {
+      "question": "Great",
+      "answer": "I am glad you think so."
     },
     {
       "question": "I am getting bored",
@@ -46,6 +58,10 @@
     },
     {
       "question": "I love you",
+      "answer": "I love you too."
+    },
+    {
+      "question": "love you",
       "answer": "I love you too."
     },
     {
@@ -83,6 +99,18 @@
     {
       "question": "okie",
       "answer": "okie"
+    },
+    {
+      "question": "OK",
+      "answer": "Oh, okay."
+    },
+   {
+      "question": "Okay",
+      "answer": "Oh, okay."
+    },
+    {
+      "question": "fine",
+      "answer": "Oh, okay."
     },
     {
       "question": "Can do math?",
@@ -215,6 +243,14 @@
     {
       "question": "How you doing right now?",
       "answer": "I am doing good thanks for asking"
+    },
+    {
+      "question": "goodbye",
+      "answer": "See you soon!"
+    },
+    {
+      "question": "good",
+      "answer": "thanks"
     },
     {
       "question": "nice I was not expecting that but you are doing great",
